@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at Posts and Telecommunications Institute of Technology<br>👯 I’m looking to collaborate on Social Media<br>🤝 I’m looking for help with Coding <br>🌱 I’m currently learning Data Science<br>💬 Ask me about Coding or anything you want<br>
+🔭 I’m currently studying at Posts and Telecommunications Institute of Technology<br>👯 I’m looking to collaborate on Social Media<br>🤝 I’m looking for help with Coding <br>🌱 I’m excited about Web Development<br>💬 Ask me about Coding or anything you want<br>
 
 
 ## 🌐 Socials:
