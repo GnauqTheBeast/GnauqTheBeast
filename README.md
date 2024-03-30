@@ -12,6 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GnauqTheBeast&theme=city_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GnauqTheBeast&theme=city_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# 📊 DevCard:
+<a href="https://app.daily.dev/ngocquangnguyen"><img src="https://api.daily.dev/devcards/v2/S6XqDIrcCHAnnE7rI2HVu.png?type=default&r=bq6" width="356" alt="Ngoc Quang, Nguyen's Dev Card"/></a>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
