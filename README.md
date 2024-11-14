@@ -56,10 +56,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###
-
-<img src="https://raw.githubusercontent.com/GnauqTheBeast/GnauqTheBeast/output/snake.svg" alt="Snake animation" />
-
 ---
 [![](https://visitcount.itsvg.in/api?id=GnauqTheBeast&icon=0&color=0)](https://visitcount.itsvg.in)
 
